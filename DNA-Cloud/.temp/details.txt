@@ -1,0 +1,10 @@
+#File Selected : C:\Users\Win8_lenovo\Desktop\encodeok.jpg.dna
+
+#Details for the DNA :
+
+-  GC Content(% in DNA String):			50.0671487603
+-  Total Cost($ of DNA String):			290400.0
+-  Min Melting Point(°C/nucleotide):			-4.30196581197
+-  Max Melting Point(°C/nucleotide):			-4.21435897436
+
+ ©2013 Generated using DNA-CLOUD.
